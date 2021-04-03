@@ -61,7 +61,7 @@ SQL
 rows = db.execute(query)
 ```
 
-You'll notice that your text editor understand Heredoc and the syntax highlighting is actually SQL inside the Ruby file!
+You'll notice that your text editor understands Heredoc and the syntax highlighting is actually SQL inside the Ruby file!
 
 ## Resources
 
