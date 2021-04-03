@@ -43,7 +43,7 @@ El primer paso será crear todos nuestros archivos en un directorio llamado`tmp`
 ### Archivo README
 
 * Dentro del directorio `tmp`, crea un archivo llamado `README`
-* Abre este directorio `tmp` en editor de texto. Escribe algo en el archivo `README`.
+* Abre este directorio `tmp` en tu editor de texto. Escribe algo en el archivo `README`.
 
 ### Directorio Nivel 1
 
