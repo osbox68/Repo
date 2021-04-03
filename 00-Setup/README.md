@@ -6,7 +6,7 @@ Let's set up your workstation:
 
 2. **10:30am-1pm**: Follow [Le Wagon's setup carefully](https://github.com/lewagon/setup) and ask for help whenever you are stuck. It should take you all morning, and might overlap a bit into your lunch break for non-Mac users 😉.
 
-3. **2pm-2:15pm**: Second 15 min lecture on command line basics (navigating through the filesystem, creating directories & files, launching tu editora de texto from terminal, etc.)
+3. **2pm-2:15pm**: Second 15 min lecture on command line basics (navigating through the filesystem, creating directories & files, launching tu editor de texto from terminal, etc.)
 
 4. **2:15pm-3pm**: Third 45 min lecture on git commands (`git add`/`git commit`/`git push`).
 

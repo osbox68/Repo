@@ -248,7 +248,7 @@ En la Terminal, corre lo siguiente para crear el archivo de test:
 rails g system_test questions
 ```
 
-Abre el archivo generado en tu editora de texto y escribe tu primer test:
+Abre el archivo generado en tu editor de texto y escribe tu primer test:
 
 ```ruby
 # test/system/questions_test.rb
