@@ -1,4 +1,4 @@
-## Advanced UI Kit
+## Advanced UI Kit (30mn)
 
 Now that you've created your first UI components it's time to move on to a more advanced one. Let's build a responsive card using Figma's [Auto Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-layout) feature.
 
