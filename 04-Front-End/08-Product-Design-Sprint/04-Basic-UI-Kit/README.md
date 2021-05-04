@@ -18,6 +18,47 @@ To create your UI Kit, create a new page called UI Kit and then create a frame t
 
 > We advise you to work together for the UI Kit creation. It will be easier to split the work between teammates when the UI Kit is created.
 
-### Create a component
+### Create a grayscale palet
 
-...
+As you will build a lo-fi UI Kit, you'll not use colors to create your component.
+
+But at some point it could be handy to have access to a **grayscale palet** to add some contrast in your component.
+
+Create 5 square in your UI Kit to implement it. Each one of this square should have the following background color:
+
+- `#000000` (black)
+- `#666666` (dark grey)
+- `#999999` (grey)
+- `#B8B8B8` (light grey)
+- `#ffffff` (white)
+
+This will be the uniq color allowed for your lo-fi components.
+
+### Create your first component
+
+Now it's time to create your first component. Let's begin with an easy one, **the main title**.
+
+Select the text tool, and create a title with a size of `48px` in `bold`. When it's done, don't forget to click to the **create component** button on the top of your workspace. It's really import to do that, if you forgot about it you will not find this component in the assets tab during the wireframe creation.
+
+Here is a example of what you have to do:
+
+![Component creation on Figma](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_basic_ui_kit_component_creation.gif)
+
+### Create all the basic components
+
+Now that you have created your first component, let's complete your UI Kit.
+
+Here is the list of component you should have in your UI Kit before moving to the next challenge.
+
+- A main title (you already did this one)
+- A secondary title
+- A paragraph
+- A link
+- A button
+- An input
+
+The 3 last components will be a more bit complexe to create than the first one. You will need to group several item together. To to that, start by select each items, then right click on selected item an choose `Group selection` (you can also press `cmd` or `ctrl` + `g`).
+
+Here is an example of doing it for the button creation:
+
+![Group creation on Figma](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_basic_ui_kit_group_creation.gif)
