@@ -2,7 +2,7 @@
 
 It's time to take back your User Flow and to create your wireframe with the help of your UI Kit. The goal here is to create a lo fi mock-up for each screen of your product.
 
-Start by create a new page on your Figma project and add a new frame on it. You can draw a rectangle on your new frame and center it in order to put margins on both side of your frame:
+Start by create a new page on your Figma file and add a new frame on it. You can draw a rectangle on your new frame and center it in order to put margins on both side of your frame:
 
 ![Adding margins on both side of the frame](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_wireframe_create_frame_with_margins.gif)
 

@@ -8,7 +8,7 @@ An UI Kit is a set of lo-fi components you need to create. It will help you to i
 
 To create the UI Kit and your prototype we'll use [Figma](https://www.figma.com/). Sign up on it and then you'll be able to create your project (you can work directly in your browser or download the desktop app [here](https://www.figma.com/downloads/)).
 
-> You are going to work as a team on figma. Only one of you should create the figma project and then invite the rest of the team as collaborators.
+> You are going to work as a team on figma. Only one of you should create the figma project and then invite the rest of the team as collaborators.<br>You can follow the steps describe [on this notion page](https://www.notion.so/Give-edit-access-to-a-Figma-file-e6a2a3d9dce342a7b824e0f71cde9035) to create your collaborative project.
 
 ### Create the UI Kit
 
