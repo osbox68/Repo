@@ -1,16 +1,18 @@
-## Product pitch
+## Product pitch (30mn)
 
-Idea pitched on monday evening.
+Today is your first day working as a team. This is the first milestone which will lead you to the Demoday! (So we are speaking serious stuff here)
 
-The goal of the product pitch is to sharpen your project idea, to define a specific scope and to have clear vision of what you are going to build.
+Few days ago, one of your teammates pitched an idea which as been selected to be developed. This is the starting point of your product development journey but now we need to turn it into a **Product Pitch**.
 
-In order to do that you need to define:
+The main goal of doing product pitch is to sharpen your project idea, to define a specific scope and to have clear vision of what you are going to build.
+
+In order to do that you'll need to define:
 - The **need** you want to fulfil (the problem you want to resolve)
 - Your user **target** (or segment)
 - The **goal** your target wants to achieve by choosing your product
 - Your **differentiator(s)** (what makes your product unique)
 - And last but not least, you need to choose a **name** for your product
 
-Spreadsheet link
+In order to work on this as a team, please make a copy of our [UX Research spreadsheet](https://docs.google.com/spreadsheets/d/16X7VHSkVXHpedbh3m9Pt0e1psZoxtKNDcoUPpJ16hIs/edit?usp=sharing) and complete **the sheet number 3**.
 
-This is a really important step and it needs to be done seriously to define your core user journey. That's why you'll need to validate your product pitch with a teacher before starting the next challenge.
+This is a really important step and it needs to be done seriously to define your core user journey. That's why you'll need to **validate your product pitch with a teacher** before starting the next challenge.
