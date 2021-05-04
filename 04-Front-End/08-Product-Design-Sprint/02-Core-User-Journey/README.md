@@ -19,6 +19,7 @@ Keep in mind that building a user journey is part of what product designers call
 
 ![Words you should use for describing core user journey steps](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_core_user_journey.png)
 
+Take back the spreadsheet you duplicated in the previous challenge and complete the **sheet number 4** with all the step of your Core User Journey.
 
 The final result should look like a little **scenario of 10 to 15 steps**. When it's done, you can take 5 minutes to precise for each steps if it corresponds to a screen or to a link between two screens.
 
