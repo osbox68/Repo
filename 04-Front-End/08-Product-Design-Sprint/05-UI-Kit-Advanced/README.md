@@ -1,6 +1,6 @@
 ## Advanced UI Kit
 
-Now that you've created your first UI components it's time to move on to a more advanced one. Let's build a responsive card using Figma's [Auto Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-layout) feature.
+Now that you've created your first UI components, it's time to move on to a more advanced one. Let's build a responsive card using Figma's [Auto Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-layout) feature.
 
 **Auto Layout** lets you design dynamic components (called frames) that respond to the contents they hold - they grow to fill and shrink to fit. With Auto Layout you can also set padding on a frame and align the items inside horizontally and vertically, just like in a CSS flexbox! 💪
 
@@ -11,7 +11,7 @@ Start by creating two rectangles, one which will be your card and the other whic
 
 ![Create a frame with Auto Layout](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_auto_layout_one.gif)
 
-This creates a **frame** and provides you with new design options related to Auto Layout that you can find on the right panel. For example, you can now set padding on the card to the number of pixels you want to add on each side.
+This creates a **frame** and provides you with new design options that you can find on the right panel. For example, you can now set padding on the card to the number of pixels you want to add on each side.
 
 ![Set padding on the card](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_auto_layout_two.png)
 
@@ -28,7 +28,7 @@ Let's see what happens if we have a long description for the card. Add some more
 
 ![Keep the design using the resizing options](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_auto_layout_four.gif)
 
-Now you can play around with the positioning of the children in the frame to align them in the center, at the end of the frame or somewhere else. If you click on the arrow next to the keyword `Packed` you can spot another distribution option called `Space between` which, you guessed it, lets you align the children in your frame just like you would in a CSS flexbox 🤩
+You can play around with the positioning of the children in the frame to align them in the center, at the end of the frame or somewhere else. If you click on the arrow next to the keyword `Packed`, you can spot another distribution option called `Space between` which, you guessed it, lets you align the children in your frame just like you would in a CSS flexbox 🤩
 
 ![Align the items in your card like in a flexbox](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_auto_layout_five.png)
 
