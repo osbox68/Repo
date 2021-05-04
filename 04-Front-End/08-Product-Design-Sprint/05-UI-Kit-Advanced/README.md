@@ -5,13 +5,13 @@ Now that you've created your first UI components it's time to move on to a more 
 **Auto Layout** lets you design dynamic components (called frames) that respond to the contents they hold - they grow to fill and shrink to fit. With Auto Layout you can also set padding on a frame and align the items inside horizontally and vertically, just like in a CSS flexbox! 💪
 
 
-## Design a dynamic card component with Auto Layout
+### Design a dynamic card component with Auto Layout
 
 Start by creating two rectangles, one which will be your card and the other which will be an image on top of it. Put them on top of each other, highlight them both and select the option `Auto Layout` on the right design panel. (If you cannot see the option on the right panel, right-click on your selection and choose `add auto layout` from the menu.)
 
 ![Create a frame with Auto Layout](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_auto_layout_one.gif)
 
-This creates a *frame* and provides you with new design options related to Auto Layout that you can find on the right panel. For example, you can now set padding on the card to the number of pixels you want to add on each side.
+This creates a **frame** and provides you with new design options related to Auto Layout that you can find on the right panel. For example, you can now set padding on the card to the number of pixels you want to add on each side.
 
 ![Set padding on the card](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_auto_layout_two.png)
 
@@ -37,7 +37,7 @@ But what about if you need to resize your card? Make sure you select the resizin
 ![Resize your card](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_auto_layout_six.gif)
 
 
-## More about Auto Layout
+### More about Auto Layout
 
 Auto Layout is a great way to design dynamic components. But there is more to it than that: you can also use it to quickly reorder your elements or to create full screens that work across mutliple devices! Have a look at the [Auto Layout Playground](https://www.figma.com/community/file/784448220678228461) to find out more.
 
