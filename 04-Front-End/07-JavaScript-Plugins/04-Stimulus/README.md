@@ -211,9 +211,7 @@ For now, this refactoring may seem dull, even more complicated. Let's do some ch
 
 Let's say we want to add a **second** button, which will play another sound. Also we would like that second button to actually have another text, to be more meaningful.
 
-In a nutshell, we would like to implement our own [Button Playground](https://www.myinstants.com/).
-
-OK, let's start with some HTML:
+Let's start with some HTML:
 
 ```html
 <div data-controller="zelda">
