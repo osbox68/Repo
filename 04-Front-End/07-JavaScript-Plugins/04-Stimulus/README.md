@@ -68,7 +68,7 @@ See how we enhanced the solution you came up with listening to the `ended` event
 
 ### Refactoring with Stimulus
 
-We will now refactor this code using the Stimulus framework. Before we jump to the code, please take some times to read the following pages of the Handbook to grasp the philosophy behind the birth of this framework:
+We will now **refactor** this code using the Stimulus framework. Before we jump to the code, please take some times to read the following pages of the Handbook to grasp the philosophy behind the birth of this framework:
 
 - [The Origin of Stimulus](https://stimulusjs.org/handbook/origin)
 - [Introduction](https://stimulusjs.org/handbook/introduction)
@@ -82,7 +82,7 @@ yarn add stimulus
 mkdir lib/controllers # This is where we will add our Stimulus code
 ```
 
-Then open the `lib/index.js` and add the following at the **beginning** of the file:
+Then open the `lib/index.js` , remove or comment the old code, and add the following at the **beginning** of the file:
 
 ```js
 import { Application } from "stimulus";
@@ -282,4 +282,3 @@ Have a last look at your `lib/controllers/zelda_controller.js` file.
 - Do you see an `addEventListener`? No, this is replaced by the `data-action` with the syntax `EVENT_TYPE->CONTROLLER_NAME#CALLBACK`. You just have to implement the CALLBACK in your controller and that's it!
 
 Once a Stimulus controller is implemented, it's very easy to re-use it everywhere on a website with the right HTML tags.
-
