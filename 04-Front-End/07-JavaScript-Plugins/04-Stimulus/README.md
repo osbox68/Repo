@@ -82,7 +82,7 @@ yarn add stimulus
 mkdir lib/controllers # This is where we will add our Stimulus code
 ```
 
-Then open the `lib/index.js` , remove or comment the old code, and add the following at the **beginning** of the file:
+Then open the `lib/index.js`, remove or comment the old code, and add the following at the **beginning** of the file:
 
 ```js
 import { Application } from "stimulus";
