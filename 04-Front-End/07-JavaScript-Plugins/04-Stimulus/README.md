@@ -53,7 +53,7 @@ button.addEventListener('click', (event) => {
 });
 ```
 
-Go ahead, open your `index.html` and `lib/index.js` and should find the same code as above. Launch the server and check in your browser that the button is working as intended:
+Go ahead, open your `index.html` and `lib/index.js` where you will find the same code as above. Launch the server and check in your browser that the button is working as intended:
 
 ```bash
 yarn install
