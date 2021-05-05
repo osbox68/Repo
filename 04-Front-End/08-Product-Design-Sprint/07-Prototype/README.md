@@ -1,8 +1,8 @@
 ## Prototype (15mn)
 
-Time to turn your wireframe into a functionnal prototype. At this point, all your screens should be finished. Don't start this step if you haven't finish creating all the screens.
+Time to turn your wireframe into a functional prototype. At this point, all your screens should be finished. Don't start this step if you haven't finished creating all the screens.
 
-To connect each screens, go into the `Prototype` tab of the right panel. Then you just have to connect each button to the screen you want to go to when clicking on it. Here is an example of doing it:
+To connect each screen, go into the `Prototype` tab of the right panel. Then you just have to connect each button to the screen you want to go to when clicking on it. Here is an example of doing it:
 
 ![Connecting screens on Figma](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_prototype_connect_frames.gif)
 

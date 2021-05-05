@@ -8,11 +8,11 @@ A UI Kit is a set of lo-fi components you need to create. It will help you to qu
 
 To create the UI Kit and your prototype we'll use [Figma](https://www.figma.com/). Sign up on it and then you'll be able to create your project (you can work directly in your browser or download the desktop app [here](https://www.figma.com/downloads/)).
 
-> You are going to work as a team on figma. Only one of you should create the figma project and then invite the rest of the team as collaborators.<br>You can follow the steps describe [on this notion page](https://www.notion.so/Give-edit-access-to-a-Figma-file-e6a2a3d9dce342a7b824e0f71cde9035) to create your collaborative project.
+> You are going to work on Figma as a team. Only one of you should create the figma project and then invite the rest of the team as collaborators.<br>You can follow the steps described [on this Notion page](https://www.notion.so/Give-edit-access-to-a-Figma-file-e6a2a3d9dce342a7b824e0f71cde9035) to create your collaborative project.
 
 ### Create the UI Kit
 
-To create your UI Kit, create a new page called UI Kit and then create a frame to have an idea of the device screen size (it will help you create components that aren't too big or too small).
+To build your UI Kit, add a new page called UI Kit and then create a frame to have an idea of the device screen size (it will help you create components that aren't too big or too small).
 
 ![Page and frame creation on Figma](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_basic_ui_kit_creation.gif)
 
@@ -48,7 +48,7 @@ Here is an example of what you have to do:
 
 Now that you have created your first component, let's complete your UI Kit.
 
-Here is the list of component you should have in your UI Kit before moving to the next challenge.
+Here is the list of components you should have in your UI Kit before moving to the next challenge.
 
 - A main title (you already did this one)
 - A secondary title
@@ -57,7 +57,7 @@ Here is the list of component you should have in your UI Kit before moving to th
 - A button
 - An input
 
-The 3 last components will be a more bit complex to create than the first one. You will need to group several items together. To do that, start by selecting each item, then right-click on the selected items an choose `Group selection` (you can also press `cmd` or `ctrl` + `g`).
+The 3 last components will be a more bit complex to create than the first one. You will need to group several items together. To do that, start by selecting each item, then right-click on the selected items and choose `Group selection` (you can also press `cmd` or `ctrl` + `g`).
 
 Here is an example of doing it for the button creation:
 
