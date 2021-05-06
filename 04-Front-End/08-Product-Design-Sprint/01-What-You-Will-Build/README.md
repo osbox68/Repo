@@ -27,6 +27,8 @@ Here is the schedule:
 
 The timing is tight so don't take too long to get started and try to respect the durations indicated. You should at least have **finished your Basic UI Kit before the break**.
 
+Once again remember, your UI Kit and your Wireframe should be in **black and white only**. We don't want to see any color or any visual identity at this point in time.
+
 It's a very important milestone as it's the Kickoff of the app you will build during the last 2 weeks of the bootcamp. Every step is important, that's why **you should validate each one with a TA**.
 
 Good luck!
