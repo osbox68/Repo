@@ -3,7 +3,7 @@
 We will not code today, but that doesn't mean you'll not build anything.
 Today we will use new tools to build a **black and white prototype** of your project.
 
-![Stake of the day](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_stake_of_day.png)
+![Stake of the day](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_stakes_of_day_2.gif)
 
 ### Stakes of the day
 
