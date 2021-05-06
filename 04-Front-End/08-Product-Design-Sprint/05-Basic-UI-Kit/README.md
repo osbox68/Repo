@@ -27,9 +27,9 @@ But at some point it could be handy to have access to a **grayscale palette** to
 Create 5 squares in your UI Kit to implement it. Each one of these squares should have the following background color:
 
 - `#000000` (black)
-- `#666666` (dark grey)
-- `#999999` (grey)
-- `#B8B8B8` (light grey)
+- `#888888` (dark grey)
+- `#BBBBBB` (grey)
+- `#DDDDDD` (light grey)
 - `#ffffff` (white)
 
 This will be the unique color allowed for your lo-fi components.
