@@ -1,6 +1,6 @@
 ## Pitch Rehearsal (30mn)
 
-Time to prepare your pitch! In a few minutes you will present the prototype of your product in front of the class. Here some advices for your presentation:
+Time to prepare your pitch! In a few minutes you will present the prototype of your product in front of the class. Here is some advice for your presentation:
 
 - **Take the role of a user**: this is the most efficient way to present your product. Start by exposing your problem as a user and explain how the app can help to resolve it.
 - **Keep it short**: 4 minutes should be enough to present your Core User Journey

@@ -4,9 +4,9 @@ Congratulations! Now that the user research on your product is done, you are goi
 
 But before that, you need to take few minutes to build your **UI Kit**.
 
-A UI Kit is a set of lo-fi components you need to create. It will help you to quickly implement each screen of your wireframes, and it will also help you to keep consistency between all the screens.
+A UI Kit is a set of lo-fi components, reusable across pages. It will help you implement each screen of your wireframe, and it will help you stay consistent in all screens.
 
-To create the UI Kit and your prototype we'll use [Figma](https://www.figma.com/). Sign up on it and then you'll be able to create your project (you can work directly in your browser or download the desktop app [here](https://www.figma.com/downloads/)).
+To create the UI Kit and your prototype we'll use [Figma](https://www.figma.com/). Sign up and create your project (you can work directly in your browser or [download the desktop app](https://www.figma.com/downloads/)).
 
 > You are going to work on Figma as a team. Only one of you should create the figma project and then invite the rest of the team as collaborators.<br>You can follow the steps described [on this Notion page](https://www.notion.so/Give-edit-access-to-a-Figma-file-e6a2a3d9dce342a7b824e0f71cde9035) to create your collaborative project.
 
@@ -57,8 +57,8 @@ Here is the list of components you should have in your UI Kit before moving to t
 - A button
 - An input
 
-The 3 last components will be a more bit complex to create than the first one. You will need to group several items together. To do that, start by selecting each item, then right-click on the selected items and choose `Group selection` (you can also press `cmd` or `ctrl` + `g`).
+The last 3 components are more complex. You will need to group several items together. To do that, start by selecting each item, then right-click on the selected items and choose `Group selection` (you can also press `cmd` or `ctrl` + `g`).
 
-Here is an example of doing it for the button creation:
+Here is an example for the button creation:
 
 ![Group creation on Figma](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_basic_ui_kit_group_creation.gif)

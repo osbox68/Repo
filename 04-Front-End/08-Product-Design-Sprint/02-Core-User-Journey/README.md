@@ -9,11 +9,11 @@ The core user journey is **the main task** a user will do on your app to achieve
 
 A user journey represents **all the steps** a user will do to complete a task.
 
-In modern web applications, several tasks can be done by users. Some of these tasks are common and others are specific to each product. The **common ones shouldn't be included in a prototype** as they don't add any value to your product (like the login, the sign up, complete your user profile, etc.).
+In modern web applications, several tasks can be done by users, through different journeys. Some of these tasks are common to all products (signing up, signing in, editing your profile, etc.) and others are specific. The **common ones should not be included in today's prototype** as they don't add any value to your product.
 
 Here you need to focus on the specific tasks of your product and choose the journey which directly answers to the **need you want to fulfill**.
 
-Keep in mind that building a user journey is part of what product designers call **User Research**. We don't want to focus on the product interface here, but more on **each action the user will do** to achieve his/her goal. Your work here is to describe precisely each step of your core user journey by following these rules:
+Keep in mind that building a user journey is part of what product designers call **User Research**. We don't want to focus on the product interface here, but more on **each action the user will perform** to achieve his/her goal. Your work here is to describe precisely each step of your core user journey by following these rules:
 
 - Each step should describe a **user action**
 - **Keep steps short:** If you can't express a step shortly it is maybe because you need to divide it into 2 steps.

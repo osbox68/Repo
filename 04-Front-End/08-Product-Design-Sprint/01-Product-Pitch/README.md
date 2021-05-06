@@ -2,7 +2,7 @@
 
 Today is your first day working as a team. This is the first milestone which will lead you to the Demoday! (So we are speaking serious stuff here)
 
-A few days ago, one of your teammates pitched an idea which as been selected to be developed. This first pitch is the starting point of your product development journey but now we need to turn it into a **Product Pitch**.
+A few days ago, a member of your team pitched an idea which has been selected to be developed. This first pitch is the starting point of your product development journey but now we need to turn it into a **Product Pitch**.
 
 The main goal of doing a product pitch is to sharpen your project idea, to define a specific scope and to share a clear vision of what you are going to build.
 

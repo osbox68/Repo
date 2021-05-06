@@ -6,7 +6,7 @@ The goal here is to represent each screen of your Core User Journey, and the lin
 
 The User Flow should give you important indications about the interface you want to build. Basically, it should give you:
 
-- all the screens you will need to schematize and what will be displayed on them
+- all the screens you will need to sketch and what will be displayed on them
 - each link between those screens with the user action (it will help you have the right wording for your product call to action)
 
 Here is an example of Deliveroo's User Flow to order a meal:
@@ -16,4 +16,4 @@ Here is an example of Deliveroo's User Flow to order a meal:
 > **Keep it simple**
 > <br>Here you don't need to use an online tool. Just grab a piece of paper to create your user flow. When it's done you can take a picture of it and share it on slack with your teammates.
 
-The user flow needs to be done seriously. It will help you to share the workload when you'll start to create your product wireframe. Take time to create a ticket and to validate it with a teacher before starting the next challenge.
+The user flow needs to be done seriously. It will help you dispatch the work on your product wireframe. Make sure you validate this step with a teacher before starting the next challenge.

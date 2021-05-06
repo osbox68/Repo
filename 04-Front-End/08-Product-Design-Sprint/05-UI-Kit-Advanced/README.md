@@ -32,7 +32,7 @@ You can play around with the positioning of the children in the frame to align t
 
 ![Align the items in your card like in a flexbox](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_auto_layout_five.png)
 
-But what about if you need to resize your card? Make sure you select the resizing option `Fill container` on both the image and the text (and on any element which stretches from the beginning of the card to the end) and then you won't have any problems making your card bigger or smaller without breaking the design 🎉
+How about if you need to resize your card? Make sure you select the resizing option `Fill container` on both the image and the text (and on any element which stretches from the beginning of the card to the end) and then you won't have any problems making your card bigger or smaller without breaking the design 🎉
 
 ![Resize your card](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_auto_layout_six.gif)
 
