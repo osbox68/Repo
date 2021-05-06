@@ -5,7 +5,7 @@ Today we will use new tools to build a **black and white prototype** of your pro
 
 ![Stake of the day](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_stake_of_day.png)
 
-### Stake of the day
+### Stakes of the day
 
 Don't loose the big picture of the day. The goal today is to:
 
