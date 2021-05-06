@@ -2,7 +2,7 @@
 
 Now that you have a clear product pitch and that you share the same vision, it's time to define your product's **Core User Journey**.
 
-The core user journey is **the main task** a user will do on your app to achieve his/her goal. This is the most important task on your app, and this is the one you will present in front of the class this evening.
+The core user journey is **the main task** a user will do on your app to achieve his/her goal. This is the most important task on your app, and this is the one you will present in front of the class.
 
 
 ### What is a Core User Journey

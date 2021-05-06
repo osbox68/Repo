@@ -7,6 +7,6 @@ Time to prepare your pitch! In a few minutes you will present the prototype of y
 - **Avoid technical vocabulary**: we want to focus on the user experience, so you should avoid using technical vocabulary and speaking about future features.
 - **Repeat again and again**: the more you repeat, the more comfortable you will be and the clearer your presentation will be
 
-And more importantly: **Be proud of yourself**. Remember your starting idea from this morning and see the work you did to finally achieve your prototype.
+And more importantly: **Be proud of yourself**. Remember your starting idea and see the work you did to finally achieve your prototype.
 
 Good luck!

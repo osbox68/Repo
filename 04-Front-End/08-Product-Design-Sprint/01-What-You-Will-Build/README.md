@@ -12,9 +12,9 @@ This sprint has several steps, all of which are key to come up with the best pro
 - Identify your **Core User Journey**
 - Work on Figma to build a UI Kit and finally your **lo-fi prototype**
 
-### Schedule of the day
+### Schedule of this sprint
 
-Here is the schedule of your day:
+Here is the schedule:
 
 1. Define your **Product Pitch** (~30mn)
 1. Find your **Core User Journey** (~30mn)
@@ -27,6 +27,6 @@ Here is the schedule of your day:
 
 The timing is tight so don't take too long to get started and try to respect the durations indicated. You should at least have **finished your Basic UI Kit before the break**.
 
-It's a very important day as it's the Kickoff of the app you will build during the last 2 weeks of the bootcamp. Every step is important, that's why **you should validate each one with a TA**.
+It's a very important milestone as it's the Kickoff of the app you will build during the last 2 weeks of the bootcamp. Every step is important, that's why **you should validate each one with a TA**.
 
 Good luck!
