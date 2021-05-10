@@ -34,6 +34,10 @@ Create 5 squares in your UI Kit to implement it. Each one of these squares shoul
 
 This will be the unique color allowed for your lo-fi components.
 
+When all the squares are done, select each square and save each one color as your project colors. It will allow you to access your personal color palette everywhere in your project.
+
+![Create personal color palette](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/pds_greyscale_color_palette.gif)
+
 ### Create your first component
 
 Now it's time to create your first component. Let's begin with an easy one, **the main title**.
