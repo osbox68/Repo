@@ -1,5 +1,6 @@
 ## Projects - Day One
 
+Hi Toni
 You should now belong to a team of 3 to 4 people, with a clear concept for the MVP you're going
 to be building for the next 2 weeks. The goal of the day is the same as Airbnb - Day 1.
 
