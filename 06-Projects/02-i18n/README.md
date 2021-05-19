@@ -1,10 +1,10 @@
-## Projects - Day Two
+## Projects
 
-First day of actual coding, let's get going!
+First session of actual coding, let's get going!
 
-First things first: if your team didn't get around to buying & setting up a domain name on the previous day, please select one of your team members to do that now.
+First things first: if your team didn't get around to buying & setting up a domain name on the kickoff  session, please select one of your team members to do that now.
 We recommend using [Namecheap](https://www.namecheap.com) to buy the domain, and then follow [this guide](https://www.lewagon.com/blog/buying-a-domain-on-namecheap-and-pointing-it-to-heroku) to properly connect the domain to your heroku account.
-The DNS propagation can (sometimes) take up to 24 hours. So if your domain doesn't connect right away, leave it and check back on it later in the day. If you're still having connection issues at that point, please put in a ticket with a TA to troubleshoot it.
+The DNS propagation can (sometimes) take up to 24 hours. So if your domain doesn't connect right away, leave it and check back on it later. If you're still having connection issues at that point, please put in a ticket with a TA to troubleshoot it.
 
 
 ## Daily Standup
@@ -22,7 +22,7 @@ Before the standup:
 
 During the standup:
 - The Project Lead should share his/her screen with the Trello & App opened
-- Yesterday's recap: round table with everyone's actual completed tasks
+- Previous day's recap: round table with everyone's actual completed tasks
 - Today's program: round table for which features/page you will work on today
 - Address every technical concern or difficulties
 - Share your general state of mind, concerns or ideas. Communication is key!
@@ -30,14 +30,21 @@ During the standup:
 
 The trello should support your standup meeting discussions and be updated accordingly.
 
+### Feature Building
+The purpose of the projects is for **everyone to learn**. We shouldn't pigeonhole each other / ourselves into either frontend or backend, but rather make sure everyone gets to experience the whole picture. For this reason, when you divide up your tasks amongst your team, you should divide them as **features** where the team member will see it all the way through from backend to frontend.
+
+That means the feature flow is:
+`route > controller action > view WITH initial (if not all) css`
+
+
 ### Feature Dependencies
 A big part of deciding how to delegate tasks is first figuring out which features, if any, are dependent on other features in order to be built.
 While filling in your trello board, try to figure out these dependencies and make them clear so that every team member is aware (a good hint that there will be a dependency is a _nested route_). Consider adding a label to that feature card in Trello.
 
 Ways to tackle feature dependencies:
-- Divide tasks between frontend and backend
 - If you have enough user stories, give everyone a feature that doesn't have any dependency
 - Or, start with a core feature that other features are dependent on, and pair program on it until you are able to split off onto individual tasks
+- Divide tasks between frontend and backend while the dependent feature is done, then switch back to feature building.
 
 
 ## Best Branching Practices
@@ -53,7 +60,17 @@ Once you think you've finished your feature, the process should be:
 4. Deploy to Heroku - crash test / debug
 5. Update Trello
 
-It's normal to have merge conflicts every now and then, minimise the risk by pushing and merging on a regular basis!
+It's normal to have merge conflicts every now and then, minimize the risk by pushing and merging on a regular basis!
+
+## Browser Tabs
+It takes a village... and our browser tabs are no exception. Get yourself set up for success by pinning (right click on the tab and select 'pin') the following tabs in your browser for easy access to help while coding:
+- [Search through Kitt lectures](https://kitt.lewagon.com/knowledge/lectures)
+- [Frequent Rails Error Messages](https://github.com/Eschults/useful_stuff#pgerror-fatal-myapp_development-does-not-exist)
+- [Tutorials](https://kitt.lewagon.com/knowledge/tutorials)
+- [Cheatsheets](https://kitt.lewagon.com/knowledge/cheatsheets)
+
+## Seeds
+It's good to start off with some basic data that everyone can work with, especially for those working on the READ features. Prioritize the creation of some basic seeds to get going.
 
 ## Resources
 - Some of your schemas may have more advanced relationships and foreign keys than we saw during Airbnb week. For example, a table that needs to store two instances (foreign keys) from another table (most often the `User` table). In this case you'll need to use something called `aliases`. Learn how to implement this with [a guide](https://kitt.lewagon.com/knowledge/cheatsheets/activerecord_advanced) on advanced Active Record.
