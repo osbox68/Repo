@@ -1,2 +1,2 @@
-## Projects - Day Nine -- Dress Rehearsal
+## Projects - Dress Rehearsal
 
