@@ -10,9 +10,15 @@ At this point, your **core user journey** should essentially be complete. If it'
 
 If the majority of your backend is working and you haven't pimped out your seeds yet, now is the time. Having plenty of well-thought-out, realistic data in your app will make it seem that much more legit. Using a gem like faker is great and creating them all from scratch is even better but can be pretty time-consuming -- have you thought about using an API? There's pretty much an API for everything at this point, try searching google to check if there's a dataset that would fit your use-case. Then you can use [this lecture code](https://kitt.lewagon.com/karr/karr.kitt/lectures/rails/search-6/index.html?title=Search&program_id=1#/1/3) as a reference for how to import and use the data to create instances of your models in your seeds file.
 
-#### Ngrok
+#### Testing your mobile apps
 
-(toni to do: add explantion of ngrok and the steps for checking localhost on mobile)
+While using your browser in mobile view is easy and works well for the initial views, the problem is that it's never the same as the native mobile browsers. In order to make sure your app looks great on the phone too, we need to test it. However, having to wait until a PR is merged and pushed to heroku before being able to check is a pain. Let's set up a way to check localhost on our phone through a tool called `ngrok`, which will create a tunnel from localhost to a public url that you can then access from your phone (you can read more about it [here](https://ngrok.com/product)).
+
+(toni to do: add installation guides for both setups)
+
+For Macs:
+
+For Ubuntu/WSL:
 
 
 ## Resources

@@ -62,8 +62,9 @@ Once you think you've finished your feature, the process should be:
 
 It's normal to have merge conflicts every now and then, minimize the risk by pushing and merging on a regular basis!
 
+
 ## Browser Tabs
-It takes a village... and our browser tabs are no exception. Get yourself set up for success by pinning (right click on the tab and select 'pin') the following tabs in your browser for easy access to help while coding:
+By now, we likely know how many browser tabs we have open at a time in order to code 😂. So let's get ourselves set up for success by pinning (right click on the tab and select 'pin') the following tabs in your browser for easy access to help while coding:
 - [Search through Kitt lectures](https://kitt.lewagon.com/knowledge/lectures)
 - [Frequent Rails Error Messages](https://github.com/Eschults/useful_stuff#pgerror-fatal-myapp_development-does-not-exist)
 - [Tutorials](https://kitt.lewagon.com/knowledge/tutorials)
