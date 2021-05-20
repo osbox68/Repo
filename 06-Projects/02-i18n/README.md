@@ -47,7 +47,7 @@ Ways to tackle feature dependencies:
 - Divide tasks between frontend and backend while the dependent feature is done, then switch back to feature building.
 
 
-## Best Branching Practices
+### Best Branching Practices
 
 The workflow we use is called **Feature Branching**. This means that each branch is one feature. Your branch should have a clear, descriptive name, like `restaurants-show` or `dashboard-page` or `animated-menu-items`.
 
@@ -65,16 +65,16 @@ It's normal to have merge conflicts every now and then, minimize the risk by pus
 ### Continous Deployment
 The flow mentioned above 👆 is called continuous deployment. The idea of continous deployment is to ship code to your production environment as often as possible. Ideally, every time a PR gets merged into master, the master branch should then be pushed to production. The advantages of this are:
 - Prevent technical debt from stacking up. By pushing often and then crash testing the new code, you'll find any bugs right away and you'll know that they came from the most recent code that was pushed. This makes it much easier to find the source and to debug. If you instead wait to push to production after 5+ PR's have been merged, it's much harder to figure out where the bugs are stemming from.
-- The code is in the hands of the user quicker. This means that if code was merged into master, than it is considered "done" and should be given to the user to actually use it. This also means that you'll receive any user feedback sooner, and can implement and iterate quickly and easily in order to provide the best possible product for your users.
+- The code is in the hands of the user quicker. This means that if code was merged into master, then it is considered "done" and should be given to the user to actually use it. This also means that you'll receive any user feedback sooner, and can implement and iterate quickly and easily in order to provide the best possible product for your users. (In this case, you'll have to act as both the developer and the user 😉)
 
-## Browser Tabs
-By now, we likely know how many browser tabs we have open at a time in order to code 😂. So let's get ourselves set up for success by pinning (right click on the tab and select 'pin') the following tabs in your browser for easy access to help while coding:
+### Browser Tabs
+By now, we have likely learned that coding means having 100 browser tabs open at any one time 😂. So let's get ourselves set up for success by pinning (right click on the tab and select 'pin') the following tabs in your browser for easy access to help while coding:
 - [Search through Kitt lectures](https://kitt.lewagon.com/knowledge/lectures)
 - [Frequent Rails Error Messages](https://github.com/Eschults/useful_stuff#pgerror-fatal-myapp_development-does-not-exist)
 - [Tutorials](https://kitt.lewagon.com/knowledge/tutorials)
 - [Cheatsheets](https://kitt.lewagon.com/knowledge/cheatsheets)
 
-## Seeds
+### Seeds
 It's good to start off with some basic data that everyone can work with, especially for those working on the READ features. Prioritize the creation of some basic seeds to get going.
 
 ## Resources

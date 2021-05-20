@@ -17,4 +17,4 @@ Today will be the same schedule as intermediate demos:
 
 ## Resources
 
-Check out some pitches from [previous demo days](https://www.youtube.com/playlist?list=PLkbmdtbypn7R_BN6nFX-XZc7uDyMSxhye) to get inspiration and learn how to deliver a clear and fun user journey 👌
+We can't stress enough how important a good pitch is! Check out some pitches from [previous demo days](https://www.youtube.com/playlist?list=PLkbmdtbypn7R_BN6nFX-XZc7uDyMSxhye) to get inspiration and learn how to deliver a clear and fun user journey 👌

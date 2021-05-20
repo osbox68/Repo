@@ -1,7 +1,6 @@
 ## Projects - Kick off
 
-You now belong to a team with a clear concept for the MVP you're going
-to be building for the rest of the bootcamp. The goal of the kick off is the same as Airbnb - Day 1.
+You now belong to a team with a clear concept for the MVP you're going to be building for the rest of the bootcamp. The goal of the kick off is the same as Airbnb - Day 1.
 
 The kick off will be broken up into two parts:
 - Part 1 involves all the brainstorming discussions prior to coding (user stories, DB, routes etc.)
@@ -59,6 +58,7 @@ Choose a team member to work on improving the Figma while the others continue wi
 
 #### Task 3 - Kanban Board
 A kanban board is an agile project management tool designed to help visualize work, track progress, and maximize efficiency (or flow). You can choose to use either of these two tools:
+
 1. Trello - Make a copy of [this Trello Board](https://trello.com/b/WB3fRTj2) (menu > more options > copy board > board name for your project). Then add all team members to the board and start importing all your user stories and tasks (order by priority).
 
 2. Github Projects - To set up your kanban board on Github, you'll need to have the repository created already and to have all the collaborators added. Then, a team member can use [this board]() as the basis for your project board. Follow the instructions [here](https://docs.github.com/en/github/managing-your-work-on-github/copying-a-project-board) to see how to copy and add the board to your own project's repository. Two things to note: Github doesn't copy over the cards from the original board, so you'll have to add them yourself. Feel free to copy/paste the cards to get you going, or just start from scratch. Second, Github uses markdown syntax for text formatting like headings, font style, and checkboxes. It's not required, but can be nice to add formatting to your cards. You can read more about it [here](https://guides.github.com/features/mastering-markdown/).
@@ -68,6 +68,7 @@ Having a custom domain name will make your MVP seem much more legit than using t
 
 #### Task 5 - Team Slack Channel
 It's good to have a centralized location where all communication, resource-sharing, and notes can be kept relating to your project. Use a channel named `#batch-<user.batch_slug>-your_project_name` with your team. Add a topic to the channel with the following links for your project:
+
 1. Trello
 2. Heroku
 3. DB Schema
@@ -80,6 +81,7 @@ Important: This channel **must not** be used as an alternative ticketing system.
 
 
 ## Resources
+
 1. Remind yourself how to properly use git with [this cheatsheet](https://kitt.lewagon.com/knowledge/cheatsheets/git_advanced).
 2. Refresh your Active Record knowledge [here](https://kitt.lewagon.com/knowledge/cheatsheets/activerecord) before starting to create your models.
 3. Some of your schemas may have more advanced relationships and foreign keys than we saw during Airbnb week. For example, a table that needs to store two instances (foreign keys) from another table (most often the `User` table). In this case you'll need to use something called `aliases`. Learn how to implement this with [a guide](https://kitt.lewagon.com/knowledge/cheatsheets/activerecord_advanced) on advanced Active Record.

@@ -4,7 +4,7 @@ Time to get the final feedbacks and add the finishing touches to your app!
 
 After the break, we will begin rehearsing your final pitches. This time, each group will have a 1:1 session with the teaching staff, while the rest of the class continues working on their apps.
 
-It will be the same rules as for previous demos (5 minutes, start from the pain, embody a use case...)
+It will be the same rules as for previous demos (5 minutes, start from the pain, embody a use case, etc)
 
 The jury will then give its final feedback on:
   - quick wins in the features / UX / design

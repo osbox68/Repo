@@ -23,8 +23,8 @@ One of the quintessential features of AirBnB is that map (we all know the one). 
 
 As the Javscript module probably feels like forever ago, it would be a good idea to refresh your memory by checking out the lecture slides again, and in particular [the Javascript Plugins lecture](https://kitt.lewagon.com/camps/<user.batch_slug>/lectures/04-Front-End%2F07-JavaScript-Plugins). This lecture goes over the following very important concepts in Javascript:
 - separation of concerns, i.e. writing your functions in different files
-- and importing / exporting those functions in the correct files
+- and then exporting /importing those functions in the correct files
 
-Finally, when you're working with Javascript, the error messages aren't shown the way Rails error messages are. This means it can be hard to understand why something isn't working when it's supposed to 🤔. Whenever this is the case, you'll have to actively go check for them in the browser: open up your browser inspector and navigate to the `console` tab. There you'll find any error messages related to Javascript.
+Finally, when you're working with Javascript, the error messages aren't displayed the way Rails error messages are. This means it can be hard to understand why something isn't working when it's supposed to 🤔, as you don't get the same visual feedback. Whenever this is the case, you'll have to actively go check for the errors in the browser: open up your browser inspector and navigate to the `console` tab. There you'll find any error messages related to your Javascript code.
 
 ## Resources

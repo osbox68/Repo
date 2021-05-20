@@ -21,7 +21,7 @@ Duplicate this [spreadsheet](https://docs.google.com/spreadsheets/d/1_q-wwWiWUY5
 
 Start by thinking of the **user journeys** you will showcase during the demo. There are lots of possible use cases for a product like Airbnb, but try to narrow them down to the minimum viable user journeys to make it work.
 
-<details><summary markdown='span'>View possible solutions
+<details><summary markdown='span'>View a possible solution
 </summary>
 
 - 1 user journey for the user creating an offer
@@ -29,7 +29,6 @@ Start by thinking of the **user journeys** you will showcase during the demo. Th
 - 1 user journey for the owner accepting or declining a booking request
 
 </details>
-<br>
 
 Each user journey contains several **user stories**: write them down in the spreadsheet by using the right terminology.
 
@@ -54,7 +53,7 @@ When you think you're done or you're stuck and need help, create a ticket to val
 
 Based on your user stories, figure out the **routes** for each and add them to your spreadsheet, along with the corresponding **controller** and **action**.
 
-Time to draw quick sketches of the different screens and the rough elements they contain. This will help you visualize your user journeys. You can literally use pen & paper if you want to, or you can use a tool like [Whimsical](https://whimsical.com) or [Excalidraw](https://excalidraw.com/) to keep it digital & easy. Be careful, no need to be too specific at this point! This is a sprint, you need to allocate your time and resources wisely.
+Time to draw quick sketches of the different screens and the rough elements they contain. This will help you visualize your user journeys. You can use pen & paper if you want to, or you can use a tool like [Whimsical](https://whimsical.com) or [Excalidraw](https://excalidraw.com/) to keep it digital & easy. Be careful, no need to be too specific at this point! This is a sprint, you need to allocate your time and resources wisely.
 
 Create a ticket to validate them with a teacher. All good? Time for Part 2!
 

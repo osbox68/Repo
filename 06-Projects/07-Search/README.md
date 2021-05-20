@@ -1,6 +1,6 @@
 ## Projects
 
-#### Frontend
+### Frontend
 If your frontend could use some work, now is the time to give it the love and attention it deserves.
 - Look back on the frontend feedbacks from your intermediate demo, and implement them.
 - Call in some extra support if needed, and get a TA to give you additional feedback on ways to improve.
