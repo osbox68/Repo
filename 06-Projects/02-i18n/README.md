@@ -62,6 +62,10 @@ Once you think you've finished your feature, the process should be:
 
 It's normal to have merge conflicts every now and then, minimize the risk by pushing and merging on a regular basis!
 
+### Continous Deployment
+The flow mentioned above 👆 is called continuous deployment. The idea of continous deployment is to ship code to your production environment as often as possible. Ideally, every time a PR gets merged into master, the master branch should then be pushed to production. The advantages of this are:
+- Prevent technical debt from stacking up. By pushing often and then crash testing the new code, you'll find any bugs right away and you'll know that they came from the most recent code that was pushed. This makes it much easier to find the source and to debug. If you instead wait to push to production after 5+ PR's have been merged, it's much harder to figure out where the bugs are stemming from.
+- The code is in the hands of the user quicker. This means that if code was merged into master, than it is considered "done" and should be given to the user to actually use it. This also means that you'll receive any user feedback sooner, and can implement and iterate quickly and easily in order to provide the best possible product for your users.
 
 ## Browser Tabs
 By now, we likely know how many browser tabs we have open at a time in order to code 😂. So let's get ourselves set up for success by pinning (right click on the tab and select 'pin') the following tabs in your browser for easy access to help while coding:

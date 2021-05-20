@@ -108,9 +108,8 @@ git push heroku master
 heroku run rails db:migrate
 ```
 
-From this point you can start splitting the tasks. **Spend time on the setup, because everything will be simpler if you do it correctly at the beginning**.
 
-### Some guidelines for project management
+From this point you can start splitting the tasks. **Spend time on the setup, because everything will be simpler if you do it correctly at the beginning**.
 
 #### Kick-off
 
