@@ -9,7 +9,7 @@ You know the drill:
 - Debug
 - Merge branches
 - Push to Heroku
-- Debug again :)
+- Debug again 😅
 - Prepare your pitch
 - Demo time!
 

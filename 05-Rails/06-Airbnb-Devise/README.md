@@ -1,25 +1,27 @@
-## AirBnB Week
+## AirBnB Kickoff
 
 You will spend the next sessions with your Project Group working on an Airbnb clone (you don't have to rent **flats**, be creative!)
 
-### Demos
+#### Demos
 
 You will demo your work (in production, no demos on `localhost`!) during the **Geocoding** and **AJAX in Rails** sessions. Deadlines matter!
 
-### Part I
+#### Kickoff
+The kick off will be broken up into two parts:
+- Part 1 involves all the brainstorming discussions prior to coding (user stories, DB, routes etc.)
+- Part 2 entails setting up your app and project management tools in order to start coding
 
-Work on the following steps and validate them with a teacher at the start of the session before creating your Rails app and moving on to Part II. You will save a lot of time by doing this, trust us.
+For **each step of part 1**, you must put in a ticket to get it validated by a TA before proceeding.
 
-#### 1 - User stories
+## Part 1
+
+####  Step 1 - User stories
 
 Duplicate this [spreadsheet](https://docs.google.com/spreadsheets/d/1_q-wwWiWUY5VL0gZVtqWIidWEtfwhX8FHEbwaW0LuFI/edit?usp=sharing) (1 per team) and invite your teammates to collaborate.
 
-![duplicate](https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/user-stories/duplicate.png)
-![rename](https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/user-stories/rename.png)
+Start by thinking of the **user journeys** you will showcase during the demo. There are lots of possible use cases for a product like Airbnb, but try to narrow them down to the minimum viable user journeys to make it work.
 
-Start by thinking of the **user journeys** you will showcase during the demo. There are lots of possible use cases for a product like Airbnb, but try to narrow them down to the minimum viable journeys to make it work.
-
-<details><summary markdown='span'>View solution
+<details><summary markdown='span'>View possible solutions
 </summary>
 
 - 1 user journey for the user creating an offer
@@ -27,31 +29,46 @@ Start by thinking of the **user journeys** you will showcase during the demo. Th
 - 1 user journey for the owner accepting or declining a booking request
 
 </details>
+<br>
 
-Each user journey contains several **user stories**: write them down in the spreadsheet by using the right terminology. When you are done, create a ticket to validate them with a teacher.
+Each user journey contains several **user stories**: write them down in the spreadsheet by using the right terminology.
 
-You can draw quick sketches with a pen and paper of the different screens and the rough elements they contain. This will help you visualize your user journeys. Be careful, no need to be too specific at this point! This is a sprint, you need to allocate your time and resources wisely.
+When coming up with your user stories with your team, we recommend to organize them with the MoSCoW method:
+- 📗 **Must have**: critical in order for it to be a success
+- 📒 **Should have**: important but not necessary for delivery in the current timebox
+- 📙 **Could have**: desirable but not necessary
+- 📕 **Won’t have**: the least-critical, lowest-payback items, or not appropriate
 
-#### 2 - Database Scheme
+By thinking of your user stories this way, it will make it easier to label and prioritize them in your Kanban board.
 
-Draw your database schema using [our db tool](https://kitt.lewagon.com/db/new) and **create a ticket to validate it with a teacher**. Draw only the minimum viable for your app to work. Use the right conventions (plural names for columns... etc - cf. the DB lectures).
+When you are done, create a ticket to validate them with a teacher.
 
-#### 3 - Routes
+#### Step 2 - Database Scheme
 
-Go back to your User stories spreadsheet and add the following information:
-- Route: Verb + Path
-- Action
-- Controller
+Based on the user stories, draw your database schema using [our db tool](https://kitt.lewagon.com/db/new). Draw only the minimum viable for your app to work - you should have only 3 tables. Make sure to use the right conventions (plural names for tables, singular for columns, etc).
 
-Create a ticket to validate them with a teacher. All good? Time for the `rails new`!
+When you think you're done or you're stuck and need help, create a ticket to validate it with a teacher.
 
-### Part II
+
+#### Step 3 - Routes & Mockups
+
+Based on your user stories, figure out the **routes** for each and add them to your spreadsheet, along with the corresponding **controller** and **action**.
+
+Time to draw quick sketches of the different screens and the rough elements they contain. This will help you visualize your user journeys. You can literally use pen & paper if you want to, or you can use a tool like [Whimsical](https://whimsical.com) or [Excalidraw](https://excalidraw.com/) to keep it digital & easy. Be careful, no need to be too specific at this point! This is a sprint, you need to allocate your time and resources wisely.
+
+Create a ticket to validate them with a teacher. All good? Time for Part 2!
+
+## Part 2
+
+As not everyone will be able to code the app setup, now is the perfect time to divide up the rest of the steps amongst your team so that everyone has something to work on.
 
 Before splitting the tasks among the team, set your project up together. The **lead developer** (and only him/her) should:
 
-#### 1. Create the Rails project with a Postgres config
+#### Task 1 - Rails new
 
-Use Le Wagon's minimal template, which already has a good frontend setup:
+First, decide amongst your team who will be the Lead Developer for this project. This just means that the person is the Github and Heroku repository owner. That person will then continue with the following steps for setting up the app.
+
+First up, let's create the Rails project with a Postgres config. We will use Le Wagon's minimal template, which already has a good frontend setup:
 
 ```bash
 cd ~/code/<user.github_nickname>
@@ -63,7 +80,7 @@ rails new \
 
 Again, only the **lead developer** will do this! Not everyone in the team...
 
-#### 2. Push the project on Github
+Next up, push the project on Github
 
 ```bash
 cd rails-airbnb-clone
@@ -71,9 +88,7 @@ gh repo create
 git push origin master
 ```
 
-#### 3. Add your team mates as collaborators on the Github repo
-
-Go to [your Github repo settings](https://github.com/<user.github_nickname>/rails-airbnb-clone/settings/collaboration) and add your teammates as **collaborators** to the repo.
+Then, we need to give your teammates push access to the repo. Go to [your Github repo settings](https://github.com/<user.github_nickname>/rails-airbnb-clone/settings/collaboration) and add your teammates as **collaborators**.
 
 The other teammates can now **clone** the project. ⚠️**Be careful, use `SSH` url**⚠️
 
@@ -85,9 +100,7 @@ yarn install
 rails db:create db:migrate
 ```
 
-#### 4. Deploy on Heroku
-
-Even if it's just a skeleton app, it's important to deploy on Heroku **from day one**, and then continuously deploy every day with each new feature.
+After that's done, it's time to set up and push to Heroku. Even if it's just a skeleton app, it's important to deploy on Heroku **from day one**, and then continuously deploy every day with each new feature.
 
 ```bash
 heroku create airbnb-<user.lower_github_nickname> --region=REPLACE_WITH_REGION # (eu, us, or any region available in `heroku regions` list)
@@ -114,6 +127,7 @@ You must always start with the **core models** in your app that all future featu
 - Build a simple, attractive home page.
 
 Once both groups are done (it should take you ~2h each) and once you have all merged your work on Github, you can move on and split tasks for the remaining features.
+
 
 #### Tasks organization
 
@@ -164,3 +178,5 @@ When you work on a feature, work on it **conscientiously from the database to th
 - Crash test all your model associations and validations in the rails console.
 - Don't neglect the view. If you add a form, make it a nice, centered and responsive Bootstrap form. If you code a flats list, build a nice Bootstrap grid (for example, with flat picture on the left and flat info on the right..).
 - Use partials to refactor your HTML and make it more readable and maintainable.
+
+## Resources

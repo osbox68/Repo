@@ -32,7 +32,3 @@ If your product is for mobile, it's time to set up something called a PWA. Basic
 - Make your alerts sweeter with [Sweet Alert](https://kitt.lewagon.com/knowledge/tutorials/sweetalert)
 - Need a 'bookmark' feature? Try the `acts_as_favoritor` [gem](https://github.com/jonhue/acts_as_favoritor)
 - Do your users need to be able to purchase something in your app? Let [Stripe](https://kitt.lewagon.com/knowledge/tutorials/stripe) handle that.
-
-
-
-

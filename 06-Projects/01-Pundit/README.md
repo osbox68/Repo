@@ -23,7 +23,7 @@ When coming up with your user stories with your team, we recommend to organize t
 
 By thinking of your user stories this way, it will make it easier to label and prioritize them in your Kanban board.
 
-#### Step 2 - Database
+#### Step 2 - Database Schema
 Next up, open [Kitt's DB schema builder](https://kitt.lewagon.com/db) and figure out the **database schema** needed for your user stories. This is usually the trickiest bit of the day, and it can be easy to get carried away. Spend time talking it out amongst your group, focusing on your **core user journey**. What kind of relationships do you have in your app -- 1:N, N:N? If you have any N:N relationships, don't forget to include your join tables.
 
 If you notice your schema is getting rather large (i.e. more than 6 tables), think about scaling it down to the **must haves** that you determined above. It's always better to start small with an approachable schema than to start with an overly complicated schema. Complicated schemas == dependencies == hard to divide features and get your MVP up and running in time. Instead, divide it into stages based on priority. Once you accomplish one stage, move onto the next and update the schema if needed. Repeat until done (or you run out of time 😅).
