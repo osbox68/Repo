@@ -2,7 +2,7 @@
 
 First session of actual coding, let's get going!
 
-First things first: if your team didn't get around to buying & setting up a domain name on the kickoff session, please select one of your team members to do that now.
+**First things first**: if your team didn't get around to buying & setting up a domain name on the kickoff session, please select one of your team members to do that now.
 We recommend using [Namecheap](https://www.namecheap.com) to buy the domain, and then follow [this guide](https://www.lewagon.com/blog/buying-a-domain-on-namecheap-and-pointing-it-to-heroku) to properly connect the domain to your heroku account.
 The DNS propagation can (sometimes) take up to 24 hours. So if your domain doesn't connect right away, leave it and check back on it later. If you're still having connection issues at that point, please put in a ticket with a TA to troubleshoot it.
 
