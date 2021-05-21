@@ -87,7 +87,7 @@ gh repo create
 git push origin master
 ```
 
-Then, we need to give your teammates push access to the repo. Go to [your Github repo settings](https://github.com/<user.github_nickname>/rails-airbnb-clone/settings/collaboration) and add your teammates as **collaborators**.
+Then, we need to give your teammates push access to the repo. Go to [your Github repo settings](https://github.com/<user.github_nickname>) and add your teammates as **collaborators**.
 
 The other teammates can now **clone** the project. ⚠️**Be careful, use `SSH` url**⚠️
 
@@ -110,7 +110,33 @@ heroku run rails db:migrate
 
 From this point you can start splitting the tasks. **Spend time on the setup, because everything will be simpler if you do it correctly at the beginning**.
 
-#### Kick-off
+#### Task 2 - Kanban Board
+A kanban board is an agile project management tool designed to help visualize work, track progress, and maximize efficiency (or flow). You can choose to use either of these two tools:
+
+1. Trello - Make a copy of [this Trello Board](https://trello.com/b/WB3fRTj2) (menu > more options > copy board > board name for your project). Then add all team members to the board and start importing all your user stories and tasks (order by priority).
+
+2. Github Projects - To set up your kanban board on Github, you'll need to have the repository created already and to have all the collaborators added. Then, a team member can use [this board]() as the basis for your project board. Follow the instructions [here](https://docs.github.com/en/github/managing-your-work-on-github/copying-a-project-board) to see how to copy and add the board to your own project's repository. Two things to note: Github doesn't copy over the cards from the original board, so you'll have to add them yourself. Feel free to copy/paste the cards to get you going, or just start from scratch. Second, Github uses markdown syntax for text formatting like headings, font style, and checkboxes. It's not required, but can be nice to add formatting to your cards. You can read more about it [here](https://guides.github.com/features/mastering-markdown/).
+#### Tasks organization
+
+Here is a list of different user stories to implement on the Airbnb project:
+
+- As a user, I can navigate on the website from the navbar (with functional links, e.g. "signin/signout", "My bookings", "Publish an offer", etc.)
+- As a user, I can view a flat's page
+- As a user, I can book a flat
+- As a user, I can add pictures for my flat
+- As a user, I can add reviews for a flat I've stayed in
+- As a user, I can locate flats on a map
+- As a user, I can log in with Facebook
+- As a user, I can receive an email when someone books my flat
+- etc
+
+**Some of these features are more important than others**. It's your role to prioritize them (using the MoSCow principle mentioned early) to get an MVP by the end of the week!
+
+#### Task 3: Mockups
+
+
+
+#### Task 4: Project kickoff
 
 When trying to split work in your team, you'll realize that many tasks depend on other ones... How to integrate facebook connect if there is no `User` model? How to implement bookings if there is no `Flat` model? Here are some guidelines to help you organize your work:
 
@@ -127,23 +153,7 @@ You must always start with the **core models** in your app that all future featu
 Once both groups are done (it should take you ~2h each) and once you have all merged your work on Github, you can move on and split tasks for the remaining features.
 
 
-#### Tasks organization
-
-Here is a list of different user stories to implement on the Airbnb project:
-
-- As a user, I can navigate on the website from the navbar (with functional links, e.g. "signin/signout", "My bookings", "Publish an offer", etc.)
-- As a user, I can view a flat's page
-- As a user, I can book a flat
-- As a user, I can add pictures for my flat
-- As a user, I can add reviews for a flat I've stayed in
-- As a user, I can locate flats on a map
-- As a user, I can log in with Facebook
-- As a user, I can receive an email when someone books my flat
-- ...
-
-**Some of these features are more important than others**. It's your role to prioritize them to get an MVP at the end of the week!
-
-#### Feature example: Book a flat
+#### Feature Building
 
 When you work on a feature, work on it **conscientiously from the database to the HTML/CSS**. Let's take the example of the "booking" feature:
 
