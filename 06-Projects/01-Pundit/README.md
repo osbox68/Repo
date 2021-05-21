@@ -72,7 +72,7 @@ Having a custom domain name will make your MVP seem much more legit than using t
 ### Task 5 - Team Slack Channel
 It's good to have a centralized location where all communication, resource-sharing, and notes can be kept relating to your project. Use a channel named `#batch-<user.batch_slug>-your_project_name` with your team. Add a topic to the channel with the following links for your project:
 
-1. Trello
+1. Trello or Github Project
 2. Heroku
 3. DB Schema
 4. Github Repo
