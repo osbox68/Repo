@@ -45,9 +45,9 @@ First, decide amongst your team who will be the Lead Developer for this project.
 
 When starting your rails project, you **must** use one of the [**Wagon Rails Templates**](https://github.com/lewagon/rails-templates/tree/master). Make sure you use the [Devise template](https://github.com/lewagon/rails-templates/tree/master#devise) if you need a `User` model!
 
-After the app is created, create your Github Repository and add all teammates as collaborators. Check out the [Github lecture slides](https://kitt.lewagon.com/camps/<user.batch_slug>/lectures/05-Rails%2F06-Airbnb-Devise#/1/0/0) for an overview of the process.
+After the app is created, create your Github Repository and add all teammates as collaborators. Check out the [Github lecture slides](https://kitt.lewagon.com/camps/<user.batch_slug>/lectures/05-Rails%2F06-Airbnb-Devise#/1/3/0) for an overview of the process.
 
-Then create the Heroku app and do your initial deploy. Check out [the Heroku lecture slides](https://kitt.lewagon.com/camps/<user.batch_slug>/lectures/05-Rails%2F05-Rails-MC-with-images) if you need a refresher on the steps.
+Then create the Heroku app and do your initial deploy. Check out [the Heroku lecture slides](https://kitt.lewagon.com/camps/<user.batch_slug>/lectures/05-Rails%2F05-Rails-MC-with-images#/0/2/5) if you need a refresher on the steps.
 
 Tip: always run `heroku run rails db:migrate` after pushing to Heroku to make sure your production database is up to date with any changes.
 
