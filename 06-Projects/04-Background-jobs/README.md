@@ -8,7 +8,7 @@ At this point, your **core user journey** should essentially be complete. If it'
 
 ### Seeds
 
-If the majority of your backend is working and you haven't pimped out your seeds yet, now is the time. Having plenty of well-thought-out, realistic data in your app will make it seem that much more legit. Using a gem like faker is great and creating them all from scratch is even better but can be pretty time-consuming -- have you thought about using an API? There's pretty much an API for everything at this point, try searching google to check if there's a dataset that would fit your use-case. Then you can use [this lecture code](https://kitt.lewagon.com/karr/karr.kitt/lectures/rails/search-6/index.html?title=Search&program_id=1#/1/3) as a reference for how to import and use the data to create instances of your models in your seeds file.
+If the majority of your backend is working and you haven't pimped out your seeds yet, now is the time. Having plenty of well-thought-out, realistic data in your app will make it seem that much more legit. Using a gem like faker is great and creating them all from scratch is even better but can be pretty time-consuming -- have you thought about using an API? There's pretty much an API for everything at this point, try searching google to check if there's a dataset that would fit your use-case. Then you can use [this lecture code](https://kitt.lewagon.com/camps/<user.batch_slug>/lectures/05-Rails%2F09-Airbnb-SMTP#/0/1/3) as a reference for how to import and use the data to create instances of your models in your seeds file.
 
 ### Testing your mobile apps with ngrok
 

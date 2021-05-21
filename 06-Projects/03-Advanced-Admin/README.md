@@ -22,6 +22,8 @@ Once it's there, you can `heroku open`, test all the features and prioritize fix
 
 If you don't have any seeds yet, create some. If you already have some, think about how you can improve them and bulk them out. The more seeds you have and the better they are, the more legit your app will look.
 
+In Le Wagon projects context, you may find it useful to have a seed that "resets" the database to your Demo's starting point. In "real-life" projects, **never code any destructive behaviour** in a seed ⚠️ you don't want to run `User.destroy_all` by mistake 😱
+
 ### Homepage
 
 The landing page is the first page your user will see. Spend time making this look really nice! Imagine a brand new user coming to your site for the first time -- they should be able to easily figure out what the general idea of your app is about just by reading the landing page. Make sure to include clear, descriptive images and text here.
@@ -32,6 +34,15 @@ Having well structured and **properly indented** HTML code is necessary for 2 ma
 1. **debugging**: when your HTML code is acting funny (an element wasn't closed at all or was closed in the wrong place), it can be nearly impossible to figure out where the problem is coming from if your indentation is all over the place. Save yourself (and the TAs 😉) hours of pain by taking 10-15 minutes to go through your views and properly format each line of your HTML.
 This goes for embedded ruby as well - make sure it's indented correctly along with the rest of your HTML code.
 When you look at your HTML structure, it should look like a very satisfying V formation of ducks.
+```ruby
+🦆
+  🦆
+    🦆
+      🦆
+    🦆
+  🦆
+🦆
+```
 
 2. **team work**: if you're having a hard time understanding your HTML structure, then it's very likely the rest of your team will too. Make your and your team's life easier by creating code that anyone can come into and understand. This concept isn't limited to your bootcamp experience, but will extend into your professional career as a developer (if that's the path you go after Le Wagon).
 
