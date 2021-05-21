@@ -13,13 +13,14 @@ You should now know the drill:
 - Prepare your pitch
 - Demo time!
 
-### Demos
+---
+#### Demos
 
 What makes a good demo?
-- 5 minutes per product
+- 3-5 minutes per product
 - 1-2 speakers, 1 assistant (if non-remote)
 - No demos on localhost, demos must take place on production environments
-- Embody a use case, starting from your pain - do not describe the features you coded. Instead, pretend like this is the first time you're seeing this app.
+- Embody a use case, starting from your pain - do not describe the features you coded.
 - Have realistic data on your website
 - Practice, practice, practice!
 

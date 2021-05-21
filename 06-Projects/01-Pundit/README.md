@@ -7,6 +7,8 @@ The kick off will be broken up into two parts:
 - Part 2 entails setting up your app and project management tools in order to start coding
 
 For **each step of part 1**, you must put in a ticket to get it validated by a TA before proceeding.
+
+---
 ## Part 1
 
 #### Step 1 - User stories
@@ -20,7 +22,7 @@ When coming up with your user stories with your team, we recommend to organize t
 - 📙 **Could have**: desirable but not necessary
 - 📕 **Won’t have**: the least-critical, lowest-payback items, or not appropriate
 
-By thinking of your user stories this way, it will make it easier to label and prioritize them in your Kanban board.
+By thinking of your user stories this way, it will make it easier to label and prioritize them in your [Kanban board](https://en.wikipedia.org/wiki/Kanban_board).
 
 #### Step 2 - Database Schema
 Next up, open [Kitt's DB schema builder](https://kitt.lewagon.com/db) and figure out the **database schema** needed for your user stories. This is usually the trickiest bit of the day, and it can be easy to get carried away. Spend time talking it out amongst your group, focusing on your **core user journey**. What kind of relationships do you have in your app -- 1:N, N:N? If you have any N:N relationships, don't forget to include your join tables.
@@ -32,8 +34,9 @@ Based on your user stories, figure out the **routes** for each and add them to y
 
 Then, open your [Figma](https://www.figma.com/) from the Product Design Sprint and see if the user flow still matches what your team has decided on above. If it doesn't, take some time to think about it as a team, and rework your wireframe based on the flow & routes you've decided on. You can use a tool like [Whimsical](https://whimsical.com) or [Excalidraw](https://excalidraw.com/) to keep it super basic and clear.
 
-
+---
 ## Part 2
+
 
 As not everyone will be able to code the app setup, now is the perfect time to divide up the rest of the steps amongst your team so that everyone has something to work on.
 
@@ -57,7 +60,7 @@ Figma is an incredible tool with loads of cool features that you can utilize her
 Choose a team member to work on improving the Figma while the others continue with the next tasks.
 
 #### Task 3 - Kanban Board
-A kanban board is an agile project management tool designed to help visualize work, track progress, and maximize efficiency (or flow). You can choose to use either of these two tools:
+A [Kanban board](https://en.wikipedia.org/wiki/Kanban_board) is an agile project management tool designed to help visualize work, track progress, and maximize efficiency (or flow). You can choose to use either of these two tools:
 
 1. Trello - Make a copy of [this Trello Board](https://trello.com/b/WB3fRTj2) (menu > more options > copy board > board name for your project). Then add all team members to the board and start importing all your user stories and tasks (order by priority).
 
@@ -79,6 +82,7 @@ In order to get everything to fit in the description area, you will likely need 
 
 Important: This channel **must not** be used as an alternative ticketing system. Tickets still need to be created the normal way.
 
+---
 #### End of day
 Before signing off, ask your teammates if there is any work done that can be merged in `master` and deployed 🚀
 
@@ -89,8 +93,9 @@ git pull origin master
 git push heroku master
 ```
 
-## Resources
+---
+#### Resources
 
-1. Remind yourself how to properly use git with [this cheatsheet](https://kitt.lewagon.com/knowledge/cheatsheets/git_advanced).
-2. Refresh your Active Record knowledge [here](https://kitt.lewagon.com/knowledge/cheatsheets/activerecord) before starting to create your models.
-3. Some of your schemas may have more advanced relationships and foreign keys than we saw during Airbnb week. For example, a table that needs to store two instances (foreign keys) from another table (most often the `User` table). In this case you'll need to use something called `aliases`. Learn how to implement this with [a guide](https://kitt.lewagon.com/knowledge/cheatsheets/activerecord_advanced) on advanced Active Record.
+- Remind yourself how to properly use git with [this cheatsheet](https://kitt.lewagon.com/knowledge/cheatsheets/git_advanced).
+- Refresh your Active Record knowledge [here](https://kitt.lewagon.com/knowledge/cheatsheets/activerecord) before starting to create your models.
+- Some of your schemas may have more advanced relationships and foreign keys than we saw during Airbnb week. For example, a table that needs to store two instances (foreign keys) from another table (most often the `User` table). In this case you'll need to use something called `aliases`. Learn how to implement this with [a guide](https://kitt.lewagon.com/knowledge/cheatsheets/activerecord_advanced) on advanced Active Record.
