@@ -60,7 +60,7 @@ Figma is an incredible tool with loads of cool features that you can utilize her
 Choose a team member to work on improving the Figma while the others continue with the next tasks.
 
 ### Task 3 - Kanban Board
-A [Kanban board](https://en.wikipedia.org/wiki/Kanban_board) is an agile project management tool designed to help visualize work, track progress, and maximize efficiency (or flow). There are many different resources out there (Trello, Github Projects, Notion, just to name a few). 
+A [Kanban board](https://en.wikipedia.org/wiki/Kanban_board) is an agile project management tool designed to help visualize work, track progress, and maximize efficiency (or flow). There are many different resources out there ([Trello](https://trello.com/), [Github Projects](https://github.com/features/project-management/), [Notion](https://www.notion.so/), just to name a few). 
 
 We've prepared two drafts for you to start from if you choose Trello or Github Projects but feel free to use another tool if you are more familiar with it:
 
