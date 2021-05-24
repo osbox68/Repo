@@ -87,7 +87,7 @@ In order to get everything to fit in the description area, you will likely need 
 Important: This channel **must not** be used as an alternative ticketing system. Tickets still need to be created the normal way.
 
 ### Task 6 - Product Page
-On Kitt, we also centralize all your different links for your project. Please go on your batch's [product page](https://kitt.lewagon.com/camps/<user.batch_slug>/products), select your product and click on `view details`. Take the time to fill in the different sections of your product page. This will allow the teaching crew to have an overview of your project. 
+On Kitt, we also centralize all your different links for your project. Please go on your batch's [Products page](https://kitt.lewagon.com/camps/<user.batch_slug>/products), select your product and click on `view details`. Take the time to fill in the different sections of your product page. This will allow the teaching crew to have an overview of your project. 
 
 ---
 #### End of day
