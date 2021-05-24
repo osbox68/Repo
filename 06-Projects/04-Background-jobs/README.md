@@ -28,6 +28,8 @@ sudo apt-get update
 sudo apt-get install ngrok-client
 ```
 
+If you need to install it manually, you can download it [here](https://ngrok.com/download).
+
 After you've installed ngrok, you'll then need to open a tunnel on the port we're using for our rails app, aka `3000` (the number after the `localhost:` is always the port number).
 ```zsh
 ngrok http 3000
