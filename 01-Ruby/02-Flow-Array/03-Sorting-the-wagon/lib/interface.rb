@@ -20,13 +20,13 @@ num_students = sorted_students.size
 
 def pluralize(nin, word)
   if nin == 1
-    "#{word}"
+    word.to_s
   else
     "#{word}s"
   end
 end
 
-puts "Excelente le WAgon tiene #{num_students} #{pluralize(num_students, "student")}:"
+puts "Excelente le WAgon tiene #{num_students} #{pluralize(num_students, 'student')}:"
 if sorted_students.size >= 2
   puts "#{sorted_students[0..-2].join(', ')} and #{sorted_students.last}"
 else
