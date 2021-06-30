@@ -20,9 +20,9 @@ num_students = sorted_students.size
 
 def pluralize(nin, word)
   if nin == 1
-      "#{word}"
+    "#{word}"
   else
-      "#{word}s"
+    "#{word}s"
   end
 end
 
